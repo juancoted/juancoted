@@ -1,8 +1,18 @@
 ## &nbsp; 👋 Hi, I’m Juan Costa
-- 👀 I’m interested in  HTML, CSS, JavaScript, Typescript , Node.JS ...
-- 🌱 I’m currently learning ...Typescript and NodeJS
+- About me ... coming soon
 - 📫 How to reach me ... You can reach me in: <a href="#socialmedias">Social Links</a>
 
+## &nbsp; 👀 I’m interested in: 
+![JavaScript](https://img.shields.io/badge/-JavaScript-2e7d32?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-2e7d32?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-2e7d32?style=flat&logo=CSS3)&nbsp;
+![Node.Js](https://img.shields.io/badge/-Node.js-2e7d32?style=flat&logo=node.js)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-2e7d32?style=flat&logo=typescript)&nbsp;
+
+## &nbsp;🌱 I’m currently learning
+
+![Node.Js](https://img.shields.io/badge/-Node.js-2e7d32?style=flat&logo=node.js)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-2e7d32?style=flat&logo=typescript)&nbsp;
 
 ## &nbsp; GitHub Analytics
 
